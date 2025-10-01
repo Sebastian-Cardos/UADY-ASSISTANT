@@ -1,8 +1,6 @@
 # PRODUCTO: UADY ASISSTANT
 Repositorio fundamentos de ingeniería de software 
 
-Objetivo
-
 UADY ASSISTANT es una aplicación móvil diseñada para alumnos de nuevo ingreso de la facultad de matemáticas de la UADY que tiene como propósito ayudar a dichos estudiantes a adaptarse a la nueva vida universitaria así como apoyarlos a lograr sus primeras metas en la carrera, proporcionándoles un croquis interactivo, información relevante, un ranking de profesores con recomendaciones para desempeñarse en sus respectivas clases, un foro interactivo con alumnos de mayor antigüedad y otras funcionalidades que les ayudarán durante su vida académica.
 
 Tabla de contenido:
