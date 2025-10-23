@@ -24,6 +24,6 @@ Su propósito es ayudar a dichos estudiantes a adaptarse a la nueva vida univers
 - Métrica de Contribución  
 - Presentación y Video  
 
-### 2. [Segunda Entrega]([Segunda Entrega](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/main/Segunda%20Entrega))
+### 2. [Segunda Entrega](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/main/Segunda%20Entrega)
 - Daily Meetings  
 - Video y Presentación: *Ciclo de Vida del Software*
