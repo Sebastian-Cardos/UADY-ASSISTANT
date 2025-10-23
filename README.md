@@ -24,6 +24,6 @@ Su propósito es ayudar a dichos estudiantes a adaptarse a la nueva vida univers
 - Métrica de Contribución  
 - Presentación y Video  
 
-### 2. Segunda Entrega
+### 2. [Segunda Entrega](Segunda Entrega)
 - Daily Meetings  
 - Video y Presentación: *Ciclo de Vida del Software*
