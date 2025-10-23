@@ -1,4 +1,5 @@
-PRODUCTO: UADY ASISSTANT
+=======
+# **PRODUCTO: UADY ASISSTANT**
 Repositorio fundamentos de ingeniería de software 
 
 UADY ASSISTANT es una aplicación móvil diseñada para alumnos de nuevo ingreso de la facultad de matemáticas de la UADY que tiene como propósito ayudar a dichos estudiantes a adaptarse a la nueva vida universitaria así como apoyarlos a lograr sus primeras metas en la carrera, proporcionándoles un croquis interactivo, información relevante, un ranking de profesores con recomendaciones para desempeñarse en sus respectivas clases, un foro interactivo con alumnos de mayor antigüedad y otras funcionalidades que les ayudarán durante su vida académica.
@@ -16,18 +17,30 @@ Version 1.0
 - [Competencias](#Competencias.pdf)
 
 
-# Contents
- - [Specification](#specification) 
- - [Dependencies Title](#dependencies-title) 
+## **Tabla de contenido** 
 
-## Specification
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. 
+### 1. **[Descripcion del Producto](https://github.com/GabrielBolmar/GabrielBolmar-FIS-Bot-Project/blob/main/3ra%20Entrega/Criterios/Producto/Producto%20entrega%203.docx)**
 
-## Dependencies Title
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. 
+### 2.- **[ Requerimientos ](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/2da%20entrega/Requerimientos/REQUERIMIENTOS%20FUNCIONALES.pdf)**
+- [Historias de usuario](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Historias%20de%20usuario/Historias_de_usuario.md)
+-  [Diagrana de requerimientos](https://raw.githubusercontent.com/GabrielBolmar/FIS-Bot-Project/refs/heads/Carlos-keb/Diagrama/Diagrama.webp)
+-  [Prompts](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Prompts)
+
+
+
+### 3.-  **[Procesos](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Proceso)**
+-  [Gestion de proceso](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Proceso/Gestion_de_proceso.md)
+-  [Metricas de contribucion](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Proceso/M%C3%A9tricas%20de%20contribuci%C3%B3n.png)
+
+### 4.- **[Video Presentacion](https://youtu.be/BTf_Jyasg_U?si=G_ozApSfJBEt3p6G)**
+
+### 5.- **[Competencias](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Competencias)**
+- [Competencias Genericas](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Competencias/Competencias_genericas.md)
+- [Competencias Especificas](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Competencias/Competencias_especificas.md)
+
+### 6.- **[Diseño](https://github.com/GabrielBolmar/GabrielBolmar-FIS-Bot-Project/tree/main/Dise%C3%B1o)**
+---
+
+## Evidencia de reuniones con el equipo 
+**[Documento](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/Carlos-keb/Reuniones/Evidencia_Reuniones.pdf)**  
+>>>>>>> cbab3c77ad04305ba0cbcababa85e7893bb27179
