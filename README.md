@@ -19,7 +19,7 @@ Su propósito es ayudar a dichos estudiantes a adaptarse a la nueva vida univers
 
 ## Versión 1.0
 
-### 1. Primera Entrega(https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/main/Primera%20Entrega/Competencias)
+### 1. [Primera Entrega](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/main/Primera%20Entrega/Competencias)
 - Competencias  
 - Métrica de Contribución  
 - Presentación y Video  
