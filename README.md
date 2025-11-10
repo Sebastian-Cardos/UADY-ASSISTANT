@@ -27,7 +27,7 @@ Su propósito es ayudar a dichos estudiantes a adaptarse a la nueva vida univers
 
 ### 2. [Segunda Entrega](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/main/Segunda%20Entrega)
 - [Requisitos](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Daily%20Meetings)
-- - [Requisitos](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Daily%20Meetings) 
+  - [Requisitos](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Daily%20Meetings) 
 - [Diseño](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Video%20y%20Presentaci%C3%B3n%20Ciclo%20de%20Vida%20del%20Software)
 - [Proceso](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Video%20y%20Presentaci%C3%B3n%20Ciclo%20de%20Vida%20del%20Software)
 - [Presentación del Avance](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Video%20y%20Presentaci%C3%B3n%20Ciclo%20de%20Vida%20del%20Software)
