@@ -17,7 +17,7 @@ Su propósito es ayudar a dichos estudiantes a adaptarse a la nueva vida univers
 
 ---
 
-## Versión 1.0
+## Versión 0.5
 
 ### 1. [Primera Entrega](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/main/Primera%20Entrega/Competencias)
 - [Competencias](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/374d75b2d4a0cce75a439f14e8262a6e97d2122c/Primera%20Entrega/Competencias)  
@@ -26,5 +26,8 @@ Su propósito es ayudar a dichos estudiantes a adaptarse a la nueva vida univers
 - [Sprint Backlog](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12915dca4fcce7ba6a1424d886057e9faf1a91d0/Primera%20Entrega/Sprint%20Backlog)
 
 ### 2. [Segunda Entrega](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/main/Segunda%20Entrega)
-- [Daily Meetings](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Daily%20Meetings)  
-- [Video y Presentación: *Ciclo de Vida del Software*](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Video%20y%20Presentaci%C3%B3n%20Ciclo%20de%20Vida%20del%20Software)
+- [Requisitos](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Daily%20Meetings)  
+- [Diseño](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Video%20y%20Presentaci%C3%B3n%20Ciclo%20de%20Vida%20del%20Software)
+- [Proceso](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Video%20y%20Presentaci%C3%B3n%20Ciclo%20de%20Vida%20del%20Software)
+- [Presentación del Avance](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Video%20y%20Presentaci%C3%B3n%20Ciclo%20de%20Vida%20del%20Software)
+- [Competencias](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/12d87ed46215f2bba96b33c71f258f5cf29c9d5a/Segunda%20Entrega/Video%20y%20Presentaci%C3%B3n%20Ciclo%20de%20Vida%20del%20Software)
