@@ -10,7 +10,7 @@
 Su propósito es ayudar a dichos estudiantes a adaptarse a la nueva vida universitaria y apoyarlos a lograr sus primeras metas en la carrera, proporcionándoles:
 
 - Un **croquis interactivo** del campus.  
-- **Información relevante** sobre servicios y trámites.  
+- **Alertas y notificaciones relacionadas** a la UADY.  
 - Un **ranking de profesores** con recomendaciones para un mejor desempeño académico.  
 - Un **foro interactivo** con alumnos de mayor antigüedad.  
 - Otras funcionalidades que facilitan la vida académica.
