@@ -32,3 +32,11 @@ Su propósito es ayudar a dichos estudiantes a adaptarse a la nueva vida univers
 - [Proceso](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Segunda-Entrega/Segunda%20Entrega/Proceso)
 - [Presentación del Avance](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Segunda-Entrega/Segunda%20Entrega/Presentaci%C3%B3n%20del%20Avance)
 - [Competencias](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Segunda-Entrega/Segunda%20Entrega/Competencias)
+- 
+### 3. [Tercera Entrega](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/main/Segunda%20Entrega](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Tercera-Entrega/Tercera%20Entrega)
+- [Requisitos](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Tercera-Entrega/Tercera%20Entrega/Requisitos)
+- [Diseño](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Tercera-Entrega/Tercera%20Entrega/Dise%C3%B1o)
+  - [Pruebas de Usabilidad](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Tercera-Entrega/Tercera%20Entrega/Pruebas) 
+- [Proceso](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Tercera-Entrega/Tercera%20Entrega/Proceso)
+- [Presentación del Avance](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Tercera-Entrega/Tercera%20Entrega/Presentaci%C3%B3n%20Avance)
+- [Competencias y Crítica](https://github.com/Sebastian-Cardos/UADY-ASSISTANT/tree/Tercera-Entrega/Tercera%20Entrega/Competencias%20y%20Cr%C3%ADtica)
